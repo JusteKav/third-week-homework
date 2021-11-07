@@ -1,0 +1,55 @@
+{
+  "furniture": [
+    {
+      "id": 1,
+      "title": "PICNIC",
+      "type": "table",
+      "price": 1000,
+      "location": {
+        "country": "Lithuania",
+        "city": "Vilnius",
+        "street": "Žirmūnų"
+      },
+      "owner": {
+        "fullname": "Monika",
+        "mobile": "Monikyte",
+        "address": "86-24",
+        "email": "monikamonikyte@gmail.com"
+      }
+    },
+    {
+      "id": 2,
+      "title": "MOMIC",
+      "type": "chair",
+      "price": 400,
+      "location": {
+        "country": "Lithuania",
+        "city": "Kaunas",
+        "street": "Mateikos"
+      },
+      "owner": {
+        "fullname": "Pipiras",
+        "mobile": "Pipiraitis",
+        "address": "13",
+        "email": "pipiraspipiraitis@gmail.com"
+      }
+    },
+    {
+      "id": 2,
+      "title": "KIRIL",
+      "type": "sofa",
+      "price": 3000,
+      "location": {
+        "country": "Lithuania",
+        "city": "Druskininkai",
+        "street": "Jaunystės"
+      },
+      "owner": {
+        "fullname": "Marselis",
+        "mobile": "Marselaitis",
+        "address": "15-1",
+        "email": "marselismarselaitis@gmail.com"
+      }
+    }
+  ]
+}
